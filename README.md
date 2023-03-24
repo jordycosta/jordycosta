@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there! 👋
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jordycosta&theme=dark&background=000000)](https://git.io/streak-stats)
+
+Software QA Intern [@iFixit](https://ifixit.com/)
 
 <!--
 **jordycosta/jordycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
