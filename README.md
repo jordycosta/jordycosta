@@ -2,6 +2,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jordycosta&theme=dark&background=000000)](https://git.io/streak-stats)
 
+Software Engineer Intern [@SLO County](https://www.slocounty.ca.gov/)
+
 Prev Software QA [@iFixit](https://ifixit.com/)
 
 <!--
