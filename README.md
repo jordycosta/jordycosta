@@ -2,13 +2,13 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jordycosta&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanacosta)
-
 Software Engineer Intern [@SLO County](https://www.slocounty.ca.gov/)
 
 Prev Research Assistant [@Cal Poly](https://www.calpoly.edu/)
 
 Prev Software QA [@iFixit](https://ifixit.com/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jordanacosta)
 
 <!--
 **jordycosta/jordycosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
