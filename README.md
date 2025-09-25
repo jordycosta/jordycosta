@@ -4,6 +4,8 @@
 
 Software Engineer Intern [@SLO County](https://www.slocounty.ca.gov/)
 
+Prev Research Assistant [@Cal Poly](https://www.calpoly.edu/)
+
 Prev Software QA [@iFixit](https://ifixit.com/)
 
 <!--
