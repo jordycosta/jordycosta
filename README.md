@@ -2,7 +2,9 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=jordycosta&theme=dark&background=000000)](https://git.io/streak-stats)
 
-Software Engineer Intern [@SLO County](https://www.slocounty.ca.gov/)
+Programmer Analyst [@PG&E](https://pge.com/)
+
+Prev Software Engineer Intern [@SLO County](https://www.slocounty.ca.gov/)
 
 Prev Research Assistant [@Cal Poly](https://www.calpoly.edu/)
 
